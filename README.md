@@ -4,7 +4,7 @@ An AI based Chatbot used for healthy meal propositions. I applied this AI projec
 I have used Nltk and Tensorflow for the construction of the model. I have shared the code of the model and its result. It's up to you to deploy it using the tool you want (on your localhost or on any platform dedicated to that like Discord, Telegram...)
 I added the script "main-host.py" that can directly run a localhost in your browser where you can interact with the chatbot your trained.
 
-For my application, I have linked this AI Bot with Discord. As I already mentionned, this option is not included in the files "main.py" and "main-host.py" because the discord bot setup is required beforehand 
+For my application, I have linked this AI Bot with Discord. As I already mentionned, this option is not included in the files "main.py" and "main-host.py" because the discord bot setup is required beforehand (https://github.com/Nithinkumar51/fitness_chatbot)
 
 
 # Installation
